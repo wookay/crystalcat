@@ -1,0 +1,13 @@
+name: crystalcat
+version: 0.1.0
+
+authors:
+  - WooKyoung Noh <wookay.noh@gmail.com>
+
+targets:
+  crystalcat:
+    main: src/crystalcat.cr
+
+crystal: 0.23.1
+
+license: MIT
